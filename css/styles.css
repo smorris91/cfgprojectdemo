@@ -1,0 +1,30 @@
+#second-navbar {
+    display: flex;
+    background-color: #dde;
+}
+
+#second-navbar a {
+    height: 50px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#meet-theteam img{
+    width: 100%;
+    margin: 15px 0;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #666;
+    height: 100px;
+    padding: 20px
+}
+
+footer a {
+    margin: 5px;
+    text-decoration: none !important
+}
